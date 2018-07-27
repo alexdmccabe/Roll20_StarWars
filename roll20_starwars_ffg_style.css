@@ -110,7 +110,7 @@ Version 6.3.2
  *----------------------------------------- */
 
 .sheet-yd + span {
-    background-image: url('http://i.imgur.com/Ntq77sk.png'); /* Yellow - Proficiency Die */
+    background-image: url('https://i.imgur.com/Ntq77sk.png'); /* Yellow - Proficiency Die */
     background-position: left top;
     background-repeat: repeat-x;
     height: 20px;
@@ -119,7 +119,7 @@ Version 6.3.2
 }
 
 .sheet-gd + span {
-    background-image: url('http://i.imgur.com/cqkTp2t.png'); /* Green - Ability Die */
+    background-image: url('https://i.imgur.com/cqkTp2t.png'); /* Green - Ability Die */
     background-position: left top;
     background-repeat: repeat-x;
     height: 20px;
@@ -128,7 +128,7 @@ Version 6.3.2
 }
 
 .sheet-pd + span {
-    background-image: url('http://i.imgur.com/afj6fxH.png'); /* Purple - Difficulty Die */
+    background-image: url('https://i.imgur.com/afj6fxH.png'); /* Purple - Difficulty Die */
     background-position: left top;
     background-repeat: repeat-x;
     height: 20px;
@@ -618,7 +618,7 @@ input.sheet-tab-gm-adversaries:checked ~ div.sheet-tab-gm-adversaries /* Current
 
 .sheet-rolltemplate-base th, .sheet-rolltemplate-suggestion th {
     border-radius: 3px;
-    /* background: url(http://i.imgur.com/H8YkiDQ.jpg); */
+    /* background: url(https://i.imgur.com/H8YkiDQ.jpg); */
     /* Starfield */
     background-image: -webkit-linear-gradient(top, #485a6d, #2c3947);
     background-image: -moz-linear-gradient(top, #485a6d, #2c3947);
@@ -638,7 +638,7 @@ input.sheet-tab-gm-adversaries:checked ~ div.sheet-tab-gm-adversaries /* Current
 }
 
 .sheet-rolltemplate-base .sheet-tcat-header, .sheet-rolltemplate-suggestion .sheet-tcat-header {
-    /* background: url(http://i.imgur.com/H8YkiDQ.jpg); */
+    /* background: url(https://i.imgur.com/H8YkiDQ.jpg); */
     /* Starfield */
     background-image: -webkit-linear-gradient(top, #485a6d, #2c3947);
     background-image: -moz-linear-gradient(top, #485a6d, #2c3947);
@@ -752,7 +752,7 @@ input.sheet-gm:checked ~ div.sheet-tab-gm-dice {
 
 .charsheet table {
     width: 100%;
-    background-image: url('http://i.imgur.com/4biHABZ.jpg'); /* Grey Background */
+    background-image: url('https://i.imgur.com/4biHABZ.jpg'); /* Grey Background */
     background-position: center center;
     background-repeat: repeat;
 }
@@ -765,7 +765,7 @@ input.sheet-gm:checked ~ div.sheet-tab-gm-dice {
 }
 
 .charsheet table tr th:last-child {
-    background-image: url('http://i.imgur.com/iZPF9he.png'); /* Blank white space */
+    background-image: url('https://i.imgur.com/iZPF9he.png'); /* Blank white space */
     background-position: right bottom;
     background-repeat: no-repeat;
 }
@@ -809,11 +809,11 @@ input.sheet-gm:checked ~ div.sheet-tab-gm-dice {
 }
 
 .charsheet h3 {
-    /* background-image: url('http://i.imgur.com/dulnTTi.png'), url('http://i.imgur.com/2bOTD87.png'); */
+    /* background-image: url('https://i.imgur.com/dulnTTi.png'), url('https://i.imgur.com/2bOTD87.png'); */
     /* Stretched hexagon, Grey Title lines*/
-    /* background-image: url('http://i.imgur.com/dulnTTi.png'), url('http://i.imgur.com/oWaNr2C.png'); */
+    /* background-image: url('https://i.imgur.com/dulnTTi.png'), url('https://i.imgur.com/oWaNr2C.png'); */
     /* Stretched hexagon, Grey Title lines*/
-    background-image: url('http://i.imgur.com/PAAMegP.png'), url('http://i.imgur.com/oWaNr2C.png'); /* Stretched hexagon, Grey Title lines*/
+    background-image: url('https://i.imgur.com/PAAMegP.png'), url('https://i.imgur.com/oWaNr2C.png'); /* Stretched hexagon, Grey Title lines*/
     background-position: center top, center 5px;
     background-repeat: no-repeat, repeat-x;
     line-height: 40px;
@@ -928,9 +928,9 @@ input.sheet-gm:checked ~ div.sheet-tab-gm-dice {
 /* ------------------------------------------------- Soak, Wounds... */
 
 .sheet-swsd {
-    /* background: url('http://i.imgur.com/YBGDdGr.png') center -2px no-repeat; */
+    /* background: url('https://i.imgur.com/YBGDdGr.png') center -2px no-repeat; */
     /* Character Sheet Stat connecting sword title - Border */
-    background: url('http://i.imgur.com/M8dBhzt.png') center -2px no-repeat; /* Character Sheet Stat connecting sword title - Border */
+    background: url('https://i.imgur.com/M8dBhzt.png') center -2px no-repeat; /* Character Sheet Stat connecting sword title - Border */
 }
 
 .sheet-swsd tr:hover td {
@@ -956,9 +956,9 @@ input.sheet-gm:checked ~ div.sheet-tab-gm-dice {
 .sheet-swsd td:nth-child(3),
 .sheet-swsd td:nth-child(4),
 .sheet-swsd td:nth-child(5) {
-    /* background-image: url('http://i.imgur.com/FxUooOF.png');*/
+    /* background-image: url('https://i.imgur.com/FxUooOF.png');*/
     /* Threshold / Current - Border */
-    background-image: url('http://i.imgur.com/cODj4n5.png'); /* Threshold / Current - Border */
+    background-image: url('https://i.imgur.com/cODj4n5.png'); /* Threshold / Current - Border */
     background-position: center top;
     background-repeat: no-repeat;
     width: 153px;
@@ -974,8 +974,8 @@ input.sheet-gm:checked ~ div.sheet-tab-gm-dice {
 
 .sheet-swsd tr:nth-child(2) td:nth-child(1),
 .sheet-beast tr:first-child td:nth-child(5) {
-    /*background-image: url('http://i.imgur.com/EaK5056.png');   *//*Single Digit - Border*/
-    background-image: url('http://i.imgur.com/cyPJPLg.png'); /*Single Digit - Border*/
+    /*background-image: url('https://i.imgur.com/EaK5056.png');   *//*Single Digit - Border*/
+    background-image: url('https://i.imgur.com/cyPJPLg.png'); /*Single Digit - Border*/
     background-position: center top;
     background-repeat: no-repeat;
     width: 99px;
@@ -983,7 +983,7 @@ input.sheet-gm:checked ~ div.sheet-tab-gm-dice {
     vertical-align: top;
 }
 
-/* background-image: url('http://i.imgur.com/H92wsCd.png'); Beast-Sil */
+/* background-image: url('https://i.imgur.com/H92wsCd.png'); Beast-Sil */
 /* Single Digit - Border */
 
 .sheet-beast tr:first-child td:nth-child(5) {
@@ -1071,8 +1071,8 @@ label.sheet-label-current {
 .sheet-destiny td:nth-child(2),
 .sheet-destiny td:nth-child(4) {
     text-align: center;
-    /*background-image: url('http://i.imgur.com/EaK5056.png');   *//*Single Digit - Border*/
-    background-image: url('http://i.imgur.com/cyPJPLg.png'); /*Single Digit - Border*/
+    /*background-image: url('https://i.imgur.com/EaK5056.png');   *//*Single Digit - Border*/
+    background-image: url('https://i.imgur.com/cyPJPLg.png'); /*Single Digit - Border*/
     background-position: center top;
     background-repeat: no-repeat;
     width: 99px;
@@ -1117,8 +1117,8 @@ label.sheet-label-current {
 .sheet-characteristics td:nth-child(11),
 .sheet-characteristics td:nth-child(13) {
     text-align: center;
-    /*background-image: url('http://i.imgur.com/EaK5056.png'); *//* Single Digit - Border */
-    background-image: url('http://i.imgur.com/cyPJPLg.png'); /* Single Digit - Border */
+    /*background-image: url('https://i.imgur.com/EaK5056.png'); *//* Single Digit - Border */
+    background-image: url('https://i.imgur.com/cyPJPLg.png'); /* Single Digit - Border */
     background-position: center top;
     background-repeat: no-repeat;
     width: 99px;
@@ -1176,7 +1176,7 @@ label.sheet-label-current {
 }
 
 .sheet-crit-dice-bg {
-    background-image: url('http://i.imgur.com/UqQCDZ6.png'); /* Four Boxes - Dice Border */
+    background-image: url('https://i.imgur.com/UqQCDZ6.png'); /* Four Boxes - Dice Border */
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -1273,7 +1273,7 @@ button.sheet-btn-roll-crit[type=roll]:active {
 .sheet-init td:nth-child(5),
 .sheet-skills td:nth-child(4) {
     width: 124px;
-    background-image: url(http://i.imgur.com/xUqfqbd.gif); /*url('http://i.imgur.com/fY7gsGx.png'); Seven Boxes - Dice Border */
+    background-image: url(https://i.imgur.com/xUqfqbd.gif); /*url('https://i.imgur.com/fY7gsGx.png'); Seven Boxes - Dice Border */
     background-repeat: no-repeat;
     background-position: 3px center;
 }
@@ -1299,7 +1299,7 @@ button.sheet-btn-roll-crit[type=roll]:active {
 
 .sheet-custome-skills td:nth-child(5) {
     width: 124px;
-    background-image: url('http://i.imgur.com/xUqfqbd.gif'); /* Seven Boxes - Dice Border */
+    background-image: url('https://i.imgur.com/xUqfqbd.gif'); /* Seven Boxes - Dice Border */
     background-repeat: no-repeat;
     background-position: 4px center;
 }
@@ -1559,8 +1559,8 @@ th .sheet-help-content {
 .sheet-weapons td:nth-child(6),
 .sheet-weapons td:nth-child(8) {
     text-align: center;
-    /*background-image: url('http://i.imgur.com/EaK5056.png'); *//* Single Digit - Border */
-    background-image: url('http://i.imgur.com/cyPJPLg.png'); /* Single Digit - Border */
+    /*background-image: url('https://i.imgur.com/EaK5056.png'); *//* Single Digit - Border */
+    background-image: url('https://i.imgur.com/cyPJPLg.png'); /* Single Digit - Border */
     background-position: center top;
     background-repeat: no-repeat;
     width: 99px;
@@ -1569,9 +1569,9 @@ th .sheet-help-content {
 }
 
 .sheet-weapons {
-    /* background: url('http://i.imgur.com/2bOTD87.png') center 45px repeat-x; */
+    /* background: url('https://i.imgur.com/2bOTD87.png') center 45px repeat-x; */
     /* Title Double Line */
-    background: url('http://i.imgur.com/oWaNr2C.png') center 45px repeat-x; /* Title Double Line */
+    background: url('https://i.imgur.com/oWaNr2C.png') center 45px repeat-x; /* Title Double Line */
 }
 
 .sheet-weapons tr td {
@@ -1642,9 +1642,9 @@ input.sheet-view-attachments:checked ~ .sheet-attachments {
 /* ---------------------------------------------------------- Ship */
 
 .sheet-ship {
-    /* background:url('http://i.imgur.com/6yMYyrt.png') center center no-repeat; */
+    /* background:url('https://i.imgur.com/6yMYyrt.png') center center no-repeat; */
     /* Vehicle Sheet Stat connecting sword title - Border */
-    background: url('http://i.imgur.com/R7CME69.png') center center no-repeat; /* Vehicle Sheet Stat connecting sword title - Border */
+    background: url('https://i.imgur.com/R7CME69.png') center center no-repeat; /* Vehicle Sheet Stat connecting sword title - Border */
     background-color: transparent;
 }
 
@@ -1658,9 +1658,9 @@ table.sheet-ship tr:hover td {
 }
 
 .sheet-ship-defense {
-    /* background:url('http://i.imgur.com/IAOS820.png') center center no-repeat; */
+    /* background:url('https://i.imgur.com/IAOS820.png') center center no-repeat; */
     /* Starship Four Zones - Border */
-    background: url('http://i.imgur.com/VaTaF9r.png') center center no-repeat; /* Starship Four Zones - Border */
+    background: url('https://i.imgur.com/VaTaF9r.png') center center no-repeat; /* Starship Four Zones - Border */
     width: 302px;
     height: 236px;
     text-align: center;
@@ -1668,9 +1668,9 @@ table.sheet-ship tr:hover td {
 }
 
 .sheet-planetary-vehicle-defense {
-    /* background:url('http://i.imgur.com/jvox6Kl.png') center center no-repeat; */
+    /* background:url('https://i.imgur.com/jvox6Kl.png') center center no-repeat; */
     /* Planetary Four Zones - Border */
-    background: url('http://i.imgur.com/JwhFORw.png') center center no-repeat; /* Speeder Four Zones - Border */
+    background: url('https://i.imgur.com/JwhFORw.png') center center no-repeat; /* Speeder Four Zones - Border */
     width: 302px;
     height: 236px;
     text-align: center;
@@ -1678,9 +1678,9 @@ table.sheet-ship tr:hover td {
 }
 
 .sheet-ship-char-thre-bg {
-    /* background-image: url('http://i.imgur.com/FxUooOF.png'); */
+    /* background-image: url('https://i.imgur.com/FxUooOF.png'); */
     /* Threshold / Current - Border */
-    background-image: url('http://i.imgur.com/cODj4n5.png'); /* Threshold / Current - Border */
+    background-image: url('https://i.imgur.com/cODj4n5.png'); /* Threshold / Current - Border */
     background-position: center 0px;
     background-repeat: no-repeat;
     vertical-align: top;
@@ -1690,9 +1690,9 @@ table.sheet-ship tr:hover td {
 }
 
 .sheet-ship-char-thre-bg-speed {
-    /* background-image: url('http://i.imgur.com/FxUooOF.png');*/
+    /* background-image: url('https://i.imgur.com/FxUooOF.png');*/
     /* Threshold / Current - Border */
-    background-image: url('http://i.imgur.com/cODj4n5.png'); /* Threshold / Current - Border */
+    background-image: url('https://i.imgur.com/cODj4n5.png'); /* Threshold / Current - Border */
     background-position: center 25px;
     background-repeat: no-repeat;
     vertical-align: top;
@@ -1704,8 +1704,8 @@ table.sheet-ship tr:hover td {
 
 .sheet-ship-char-bg {
     text-align: center;
-    /*background-image: url('http://i.imgur.com/EaK5056.png');   *//*Single Digit - Border*/
-    background-image: url('http://i.imgur.com/cyPJPLg.png'); /*Single Digit - Border*/
+    /*background-image: url('https://i.imgur.com/EaK5056.png');   *//*Single Digit - Border*/
+    background-image: url('https://i.imgur.com/cyPJPLg.png'); /*Single Digit - Border*/
     background-position: center 37px;
     background-repeat: no-repeat;
     width: 99px;
@@ -1828,7 +1828,7 @@ span.sheet-fireArcForeImg,
 span.sheet-fireArcStarboardImg,
 span.sheet-fireArcAftImg,
 span.sheet-fireArcPortImg {
-    background: url('http://i.imgur.com/DcWGIWp.png') left bottom no-repeat; /* Starship Weapon Firing Arcs */
+    background: url('https://i.imgur.com/DcWGIWp.png') left bottom no-repeat; /* Starship Weapon Firing Arcs */
     display: block;
     width: 32px;
     height: 32px;
